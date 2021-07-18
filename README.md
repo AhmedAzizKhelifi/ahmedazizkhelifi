@@ -8,7 +8,10 @@
                            
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedazizkhelifi" alt="ahmedazizkhelifi" /> </p>
                 
-![KHELIFI Ahmed Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazizkhelifi&show_icons=true&theme=radical)
+![KHELIFI Ahmed Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazizkhelifi&show_icons=true&theme=dark)
+
+
+
 <!--
 **AhmedAzizKhelifi/ahmedazizkhelifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
