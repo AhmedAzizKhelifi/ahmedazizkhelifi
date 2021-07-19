@@ -21,6 +21,7 @@
 - 📫 How to reach me   
   [<img src="https://img.shields.io/badge/linkedin-35495E?style=for-the-badge&logo=linkedin" alt="linkedin" title="Linkedin" height="25" />](https://www.linkedin.com/in/ahmedazizkhelifi/)
   [<img src="https://img.shields.io/badge/twitter-35495E?style=for-the-badge&logo=twitter" alt="twitter" title="Twitter" height="25" />](https://twitter.com/aazizkhelifi)
+  [<img src="https://img.shields.io/badge/discord-35495E?style=for-the-badge&logo=discord" alt="discord" title="Discord" height="25" />](https://discord.com/users/498113659717943299)
   [<img src="https://img.shields.io/badge/medium-35495E?style=for-the-badge&logo=medium" alt="medium" title="Medium" height="25" />](ahmedazizkhelifi.medium.com)
   [<img src="https://img.shields.io/badge/email-35495E?style=for-the-badge&logo=gmail" alt="gmail" title="Gmail" height="25" />](mailto:ahmedazizkhelifi@gmail.com)
 
